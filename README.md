@@ -1,4 +1,4 @@
-Lista 2 - Ordenação
+Lista 3 - Ordenação
 =========================
 Welison Lucas Almeida Regis - 2019.1
 
@@ -38,7 +38,7 @@ Para testar a aplicação, execute os seguintes passos:
 
 5. Abra o projeto com o jupyter notebook:
 ```
-    $ jupyter notebook lista2_sort_algorithms2.ipynb
+    $ jupyter notebook lista3_sort_algorithms2.ipynb
 ```
 
 **Observação:** caso queira desativar o ambiente, digite `conda deactivate`; já se quiser remover o ambiente criado anteriormente, digite `conda env remove -n sort_algorithms2`.
