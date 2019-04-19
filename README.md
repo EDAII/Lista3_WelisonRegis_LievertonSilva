@@ -6,6 +6,12 @@ Lieverton Santos Silva - 2019.1
 
 ## PROPOSTA
 
+- Utilizou-se os algoritmos $n \cdot log ~n$ **`quick sort`, `merge sort` e `bucket sort` aplicados em um `dataset`** (arquivo "athlete_events.csv") dos resultados e partipação de atletas nos jogos olímpicos.
+- O arquivo **csv** proposto possui o registro de **134732 atletas**. Para o dado problema, utilizou-se todos os registros dos atletas filtrando os campos de interesse — nome, sexo, time, NOC, jogos, cidade e evento.
+- Também utilizou-se um dataset (arquivo "noc_regions.csv") dos países participantes.
+- O objetivo do **`notebook`** é **apresentar informações dos jogos olímpicos**, como o número de atletas participantes por edição e do número de participação de cada país, e utilizar os algoritmos de ordenação para ordenar os atletas por nome e, ao final, **gerar metodos de busca e apresentar os resutados encontrados em uma tabela**.
+- É representado também a **comparação gráfica (histograma)** dos algoritmos de ordenação aplicado a todos atletas, assim como a **comparação gráfica (`Violin`)** dos algoritmos de ordenação aplicados a vetores de diferentes tamanhos com atletas aleatórios.
+
 ## PRÉ-REQUISITO(S)
 O projeto utiliza variável de ambiente (env) para a devida execução. Portanto:
 
